@@ -1,2 +1,2 @@
-random projects
+Projects
 
