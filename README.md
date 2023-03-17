@@ -1,5 +1,5 @@
 # Projects
-# **7.Trade&Ahead**
+# **7. Trading sotcks**
 Analyze the stocks data, grouping the stocks based on the attributes provided, and sharing insights about the characteristics of each group.
 
   ### *Skills & Tools Covered*
