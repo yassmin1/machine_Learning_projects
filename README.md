@@ -6,7 +6,7 @@ Analyze the stocks data, grouping the stocks based on the attributes provided, a
 EDA,Kmeans Clustering,Hierarchical Clustering,Cluster Profiling
 
 
-# **6. ReneWind**
+# **6. Renewable Energy Wind Power **
 "ReneWind" is a company working on improving the machinery/processes involved in the production of wind energy using machine learning and has collected data of generator failure of wind turbines using sensors. The objective is to build various classification models, tune them and find the best one that will help identify failures so that the generator could be repaired before failing/breaking and the overall maintenance cost of the generators can be brought down.
 
 ### *Skills & Tools Covered*
