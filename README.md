@@ -1,4 +1,11 @@
 # Projects
+
+# **8. Housing Price**
+Clustering Time Series : Analysis of Housing Prices in Bexar County
+Objective:
+The objective of this project is to cluster housing regions in Bexar County, TX based on the house prices and gain insight into the housing market in Bexar County.
+  ### *Skills & Tools Covered*
+EDA,Time series Clustering,Cluster Profiling,Kmeans.  
 # **7. Trading Sotcks**
 Analyze the stocks data, grouping the stocks based on the attributes provided, and sharing insights about the characteristics of each group.
 
